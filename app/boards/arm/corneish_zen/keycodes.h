@@ -5,8 +5,7 @@
 #define _DOWN__ &kp DOWN
 #define _RIGHT_ &kp RIGHT
 
-// #define AS(keycode) &as LS(keycode) keycode
-#define AS(keycode) &kp keycode
+#define AS(keycode) &as LS(keycode) keycode
 
 #define ___A___ AS(A)
 #define ___B___ AS(B)
